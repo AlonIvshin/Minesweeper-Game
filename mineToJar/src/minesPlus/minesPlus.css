@@ -1,0 +1,5 @@
+.root {
+    -fx-background-image: url("/minesPlus/background3.jpg");
+	-fx-background-size: cover;
+	-fx-background-repeat: no-repeat;
+}
